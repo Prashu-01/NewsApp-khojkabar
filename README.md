@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# How to locally run this app
+
+## Follow these steps
+
+1. Open the terminal (VS code powershell, git bash,..) in the folder where you want to keep this directory.
+2. git clone https://github.com/Prashu-01/NewsApp-khojkabar.git
+3. Use **npm install** to get all the dependencies
+4. Make account on https://newsapi.org/ than go to **Get API key** and copy the key.
+5. Make a **.env** file in the root folder and paste the script **REACT_APP_API='< YOUR API KEY >'** (that you got from step 4) 
+6. Now run the command **npm start** that will host this app to **localhost:3000**.
+
+# Getting Started with Create-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
