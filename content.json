@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Emily Bary, , Bill Peters",
+            "title": "First Republic Bank's debt cut to junk by Moody's - MarketWatch",
+            "description": "First Republic faces ‘significant challenges,’ Moody’s says; First Republic stock ended more than 30% lower on Friday",
+            "url": "https://www.marketwatch.com/story/first-republic-bank-gets-downgrade-to-junk-from-moodys-6d95c54f",
+            "urlToImage": "https://images.mktw.net/im-744719/social",
+            "publishedAt": "2023-03-18T03:26:00Z",
+            "content": "Moodys Investors Service downgraded its credit rating on First Republic Bank to junk late Friday, citing a deterioration in the banks financial profile.The downgrade reflects the deterioration in the… [+1833 chars]"
+        }
+    ]
+}

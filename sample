@@ -1,0 +1,15 @@
+articles: [
+    {
+    -"source": {
+            "id": null,
+            "name": "seattlepi.com"
+        },
+        "author": "By GABE STERN, Associated Press/Report for America",
+        "title": "Nevada considers $190 million in annual tax credits to bring Sony, film industry to Las Vegas",
+        "description": "A bipartisan group of Nevada lawmakers has introduced a bill that would give massive tax credits to expand film production in southern Nevada. The legislation could include a $1 billion Sony expansion in Las Vegas. It’s the latest attempt at diversifying sout…",
+        "url": "https://www.seattlepi.com/business/article/nevada-considers-190-million-in-annual-tax-18095352.php",
+        "urlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
+        "publishedAt": "2023-05-12T04:35:41Z",
+        "content": "CARSON CITY, Nev. (AP) A bipartisan group of Nevada lawmakers introduced a bill Thursday that would give massive tax credits aimed at bringing film production to southern Nevada, including a $1 billi… [+4079 chars]"
+    }
+]

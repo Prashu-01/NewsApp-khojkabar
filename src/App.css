@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+*{
+  transition: all .2s;
+  font-family: 'Titillium Web', sans-serif;
+}
+.navbar{
+  background-color: rgb(255, 218, 8) !important;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight:bold;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  margin-top: -1rem;
+}
+.container-fluid{
+  width: 80%;
+}
+.navbar-nav{
+  margin: auto;
+}
+.navbar-brand{
+  position: sticky;
+}
+.nav-item:hover{
+  transform: scale(1.1);
+}
+.icon-link{
+  display: flex;
+  justify-content: space-around;
+}
+.icon{
+  aspect-ratio: 1; 
+  width: 1.5rem;
+}
+.icon:hover{
+  transform: scale(1.1);
+}
+
+.container{
+  font-family: 'Titillium Web', sans-serif;
+}
+.img{
+  margin: auto;
+  height: 90vh;
+  width: 80% !important;
+  border-radius: 10px;
+}
+.color{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+/* News */
+.card{
+  border: 0;
+  /* box-shadow: 3px 3px 15px rgb(205, 205, 205); */
+  overflow: hidden;
+  width: 90%;
+  margin: auto;
+  transition: all 0.2s;
+}
+
+.card:hover{
+  box-shadow: 1px 1px 7px rgb(205, 205, 205);
+  transform: translateY(-2px);
+}
+.card:hover .card-img{
+  transform: scale(1.02);
+}
+.card-img{
+  height: 200px;
+  transition: all 0.2s;
+}
+.heading{
+  text-align: center;
+}
+.row{
+  justify-content: space-evenly;
+}
+.btnn{
+  display: flex;
+  width: 20%;
+  margin: auto;
+  justify-content: space-between;
+}
+.card-text{
+  color:rgb(108, 108, 108);
+}
+.card-body{
+  padding: 0;
+}
+.publish{
+  margin-top: 1rem;
+  color: rgb(116, 116, 116);
+}
+.infinite{
+  overflow: hidden;
+}
+.c-img{
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 750px) {
+  .container-fluid{
+    width: 97%;
+  }
+  .icon-link{
+    display: none;
+  }
+}
