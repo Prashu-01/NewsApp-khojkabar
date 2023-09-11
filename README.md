@@ -9,6 +9,8 @@
 5. Make a **.env** file in the root folder and paste the script **REACT_APP_API='< YOUR API KEY >'** (that you got from step 4) 
 6. Now run the command **npm start** that will host this app to **localhost:3000**.
 
+Live preview: https://drive.google.com/file/d/10dGctanR2s0gLTHuGlqn0hYk5VFvDqwS/view?usp=sharing 
+
 # Getting Started with Create-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
